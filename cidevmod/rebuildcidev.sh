@@ -1,0 +1,3 @@
+./removecidev.sh &&
+./installcidev.sh
+
